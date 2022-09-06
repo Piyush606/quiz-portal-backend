@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-8y#$pb6&fkyj%opin9@^(r*7@n)v=fw)&k!m)vv--83t2^67g2
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1', 'quiz-portal-backend-01.herokuapp.com']
 
 
 # Application definition
